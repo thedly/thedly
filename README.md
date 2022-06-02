@@ -4,7 +4,7 @@
   
 ### Hello world 👋🌐  
 
-I am [Tejas Hedly]("tejashedly.dev") , a self-taught, full stack developer who is passionate about data, engineering and system design on AWS cloud. 
+I am [Tejas Hedly]("https://tejashedly.dev") , a self-taught, full stack developer who is passionate about data, engineering and system design on AWS cloud. 
 
 I enjoy learning new things everyday. I talk about clean code and scalable solutions.
  <hr/>
@@ -37,7 +37,7 @@ I enjoy learning new things everyday. I talk about clean code and scalable solut
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=thedly.visitor-badge) 
-<a href="tejashedly.dev"><img height="20px" src="https://github-profile-icons.s3.ap-south-1.amazonaws.com/logo.png" alt="logo" /></a>
+<a href="https://tejashedly.dev"><img height="20px" src="https://github-profile-icons.s3.ap-south-1.amazonaws.com/logo.png" alt="logo" /></a>
 
 </div>
 
