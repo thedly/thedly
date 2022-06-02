@@ -7,7 +7,7 @@
 I am <a href="https://tejashedly.dev">Tejas Hedly</a> , a self-taught, full stack developer who is passionate about data, engineering and system design on AWS cloud.
 I enjoy learning everyday and I talk about clean code and scalable solutions.
 
-###### Currently providing value at <a href="https://www.kochind.com/">Koch industries<a/>
+###### :office: Currently providing value at <a href="https://www.kochind.com/">Koch industries<a/>
 
 
 ### The technologies that I work with
