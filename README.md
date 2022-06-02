@@ -1,6 +1,6 @@
  
 
-<div style="width:350px;margin:auto;text-align:center">
+<div width="350px" align="center">
   
 ### Hello world 👋🌐  
 
