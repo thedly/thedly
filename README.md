@@ -4,7 +4,7 @@
   
 ### Hello world 👋🌐 I am <a href="https://tejashedly.dev">Tejas Hedly</a>
 
- > ```A self-taught, full stack developer, passionate about data, engineering and system design on AWS.Has experience with serverless computing, building data pipelines and terraform to automate code deployments. enjoys learning everyday and talks about clean code and scalable solutions.```
+ ```A self-taught, full stack developer, passionate about data, engineering and system design on AWS.Has experience with serverless computing, building data pipelines and terraform to automate code deployments. enjoys learning everyday and talks about clean code and scalable solutions.```
 
 ###### :office: Currently providing value at <a href="https://www.kochind.com/">Koch industries<a/>
 
