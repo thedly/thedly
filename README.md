@@ -4,8 +4,7 @@
   
 ### Hello world 👋🌐  
 
-I am [Tejas Hedly]("https://tejashedly.dev") , a self-taught, full stack developer who is passionate about data, engineering and system design on AWS cloud. 
-
+I am [Tejas Hedly]("https://tejashedly.dev") , a self-taught, full stack developer who is passionate about data, engineering and system design on AWS cloud.
 I enjoy learning new things everyday. I talk about clean code and scalable solutions.
 <br/>
 <h3>Some of the tech that I work with</h3><br/>
