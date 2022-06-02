@@ -1,10 +1,10 @@
  
 
-<div width="300px" align="center">
+<div width="50%" align="center">
   
 ### Hello world 👋🌐  
 
-I am [Tejas Hedly]("https://tejashedly.dev") , a self-taught, full stack developer who is passionate about data, engineering and system design on AWS cloud.
+I am <a href="https://tejashedly.dev">Tejas Hedly</a> , a self-taught, full stack developer who is passionate about data, engineering and system design on AWS cloud.
 I enjoy learning new things everyday. I talk about clean code and scalable solutions.
 <br/>
 <h3>Some of the tech that I work with</h3><br/>
